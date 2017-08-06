@@ -67,7 +67,7 @@ my-app .main-panel .main-content .card{
 }
 
 .tim-typo{
-    padding-left: 25%;
+    padding-right: 25%;
     margin-bottom: 40px;
     position: relative;
 }
@@ -78,8 +78,8 @@ my-app .main-panel .main-content .card{
     font-weight: 400;
     font-size: 13px;
     line-height: 13px;
-    left: 0;
-    margin-left: 20px;
+    right: 0;
+    margin-right: 20px;
     position: absolute;
     width: 260px;
 }
