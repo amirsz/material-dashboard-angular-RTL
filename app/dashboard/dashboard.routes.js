@@ -15,7 +15,7 @@ exports.MODULE_ROUTES = [
     { path: 'notifications', component: notifications_component_1.NotificationsComponent },
     { path: 'typography', component: typography_component_1.TypographyComponent },
     { path: 'maps', component: maps_component_1.MapsComponent },
-    { path: 'upgrade', component: upgrade_component_1.UpgradeComponent },
+    // { path: 'upgrade', component: UpgradeComponent },
     { path: '', redirectTo: 'dashboard', pathMatch: 'full' }
 ];
 exports.MODULE_COMPONENTS = [
